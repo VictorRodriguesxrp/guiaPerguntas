@@ -5,12 +5,14 @@
 <h4>
 
 <h1> Tecnologias <h1>
- <p>Ejs</p>
- <p>Bootsrap</p>
- <p>Node</p>
- <p>Express</p>
- <p>Sequelize</p>
- <p>MySQL</p>
+ <ul>
+   <li> Ejs </li>
+   <li> Bootsrap </li>
+   <li> Node.js </li>
+   <li> Express </li>
+   <li> MySQL </li>
+   <li> Sequelize </li>
+ </ul>  
 <br>
 <img  src="https://user-images.githubusercontent.com/64935593/110185805-29b1ae00-7df2-11eb-85f9-530179d258c7.PNG"/>
 <br>
